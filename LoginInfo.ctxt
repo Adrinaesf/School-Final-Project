@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LoginInfo
+comment1.params=
+comment1.target=LoginInfo()
+comment2.params=
+comment2.target=java.lang.Boolean\ isTeacher()
+comment3.params=
+comment3.target=java.util.HashMap\ getInfo()
+numComments=4
